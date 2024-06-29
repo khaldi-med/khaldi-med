@@ -1,4 +1,4 @@
-### Hello Hello!
+### Hi!
 #### Welcome to my GitHub profile! 
 I'm a dedicated self-taught programmer driven by my love for **Linux** and **web development**.
 Over time, I've honed my expertise in **HTML, CSS, JavaScript, Ruby, C,**...
