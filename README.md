@@ -106,9 +106,3 @@ I believe in:
   
   **Thanks for visiting! Feel free to explore my repositories**
 </div>
-
-<!-- Snake eating contributions animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/khaldi-med/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
