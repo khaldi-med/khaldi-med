@@ -39,29 +39,29 @@ I'm a passionate **self-taught developer** with a deep love for **Linux** and **
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khaldi-med&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldi-med&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaldi-med&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 ## 🏆 Notable Projects
 
-### 🐚 [Minishell](https://github.com/yourusername/minishell)
+### 🐚 [Minishell](https://github.com/khaldi-med/minishell)
 A Unix shell implementation built from scratch in C
 - **Tech Stack:** C, System Programming, Unix
 - **Features:** Command parsing, pipes, redirections, built-in commands
 - **Learning:** Deep dive into system calls and process management
 
-### 🌀 [Fractol](https://github.com/yourusername/fractol) 
-Beautiful fractal visualization program with interactive zoom and navigation
+### 🌀 [Fractol](https://github.com/khaldi-med/fractol) 
+Beautiful fractal visualisation program with interactive zoom and navigation
 - **Tech Stack:** C, MinilibX, Mathematical algorithms
 - **Features:** Mandelbrot & Julia sets, real-time rendering, mouse/keyboard controls
 - **Highlights:** Advanced color gradients and zoom-to-point functionality
 
-### 🔗 [URL Share App](https://github.com/yourusername/url-share-app)
+### 🔗 [URL Share App](https://github.com/khaldi-med/url-share-app)
 Social news web application for sharing and discovering links
 - **Tech Stack:** Node.js, Express, JavaScript, Bootstrap
 - **Features:** Real-time submissions, responsive design, REST API
@@ -74,7 +74,7 @@ const currentGoals = {
   learning: ["Advanced System Design", "Cloud Architecture"],
   building: ["Microservices with Docker", "Progressive Web Apps"],
   contributing: ["Open Source Projects"],
-  improving: ["Algorithm Optimization", "Code Quality", "Testing"]
+  improving: ["Algorithm Optimisation", "Code Quality", "Testing"]
 };
 ```
 
@@ -93,10 +93,7 @@ I believe in:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medkhaldi)
 
 </div>
 
@@ -109,13 +106,13 @@ I believe in:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=khaldi-med&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
-  **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate! 🚀**
+  **Thanks for visiting! Feel free to explore my repositories**
 </div>
 
 <!-- Snake eating contributions animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yourusername/khaldi-med/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
