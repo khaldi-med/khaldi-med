@@ -43,10 +43,6 @@ I'm a passionate **self-taught developer** with a deep love for **Linux** and **
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldi-med&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaldi-med&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
 ## 🏆 Notable Projects
 
 ### 🐚 [Minishell](https://github.com/khaldi-med/minishell)
