@@ -43,37 +43,6 @@ I'm a passionate **self-taught developer** with a deep love for **Linux** and **
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldi-med&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
-## 🏆 Notable Projects
-
-### 🐚 [Minishell](https://github.com/khaldi-med/minishell)
-A Unix shell implementation built from scratch in C
-- **Tech Stack:** C, System Programming, Unix
-- **Features:** Command parsing, pipes, redirections, built-in commands
-- **Learning:** Deep dive into system calls and process management
-
-### 🌀 [Fractol](https://github.com/khaldi-med/fractol) 
-Beautiful fractal visualisation program with interactive zoom and navigation
-- **Tech Stack:** C, MinilibX, Mathematical algorithms
-- **Features:** Mandelbrot & Julia sets, real-time rendering, mouse/keyboard controls
-- **Highlights:** Advanced color gradients and zoom-to-point functionality
-
-### 🔗 [URL Share App](https://github.com/khaldi-med/url-share-app)
-Social news web application for sharing and discovering links
-- **Tech Stack:** Node.js, Express, JavaScript, Bootstrap
-- **Features:** Real-time submissions, responsive design, REST API
-- **Focus:** Clean architecture and user experience
-
-## 🎯 Current Focus
-
-```javascript
-const currentGoals = {
-  learning: ["Advanced System Design", "Cloud Architecture"],
-  building: ["Microservices with Docker", "Progressive Web Apps"],
-  contributing: ["Open Source Projects"],
-  improving: ["Algorithm Optimisation", "Code Quality", "Testing"]
-};
-```
-
 ## 🌟 What Drives Me
 
 > "The best way to predict the future is to create it." - Peter Drucker
