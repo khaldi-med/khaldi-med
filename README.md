@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **self-taught developer** with a deep love for **Linux** and **web development**. My journey in programming has been driven by curiosity and the desire to create meaningful solutions that make a difference.
+I'm a passionate **self-taught developer** with a deep love for **Linux** and **web development**. My journey in programming has been driven by curiosity and a desire to create meaningful solutions that make a positive impact. 
 
-- 🔭 Currently working on **full-stack web applications** and **system programming**
+- 🔭 Currently workin on **full-stack web applications** and **system programming** 
 - 🌱 Always learning new technologies and improving my craft
 - 💡 Passionate about **clean code**, **performance optimization**, and **user experience**
 - 🐧 Linux enthusiast and advocate for open-source software
@@ -42,30 +42,6 @@ I'm a passionate **self-taught developer** with a deep love for **Linux** and **
   <img src="https://github-readme-stats.vercel.app/api?username=khaldi-med&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaldi-med&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </div>
-
-## 🌟 What Drives Me
-
-> "The best way to predict the future is to create it." - Peter Drucker
-
-I believe in:
-- 🧠 **Continuous Learning** - Technology evolves, and so should we
-- 🤝 **Community** - Sharing knowledge and supporting fellow developers
-- 🔧 **Quality Craftsmanship** - Writing code that's not just functional, but elegant
-- 🌍 **Open Source** - Contributing to projects that benefit everyone
-- 💪 **Persistence** - Every bug is a puzzle waiting to be solved
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medkhaldi)
-
-</div>
-
-## 💭 Quote I Live By
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 ---
